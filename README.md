@@ -1,1 +1,1 @@
-# c-programming
+# Fake news detection
